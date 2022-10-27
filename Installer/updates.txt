@@ -8,6 +8,6 @@ Size = 2867200
 SHA256 = 401621B2C3BF533863750537F2EDA20512032240F143188CA302A2A30DF3128C
 MD5 = bd81a829c9c82ae19d11df106ffac644
 ServerFileName = FuseRP.msi
-Flags = Os64
+Flags = SilentInstall|Os64
 RegistryKey = HKUD\Software\Fuse Roleplay\Fuse RP Launcher\Version
 Version = 1.0.18
