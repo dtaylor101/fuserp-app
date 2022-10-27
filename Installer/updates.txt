@@ -3,7 +3,7 @@
 [V1.0.15]
 Name = Fuse RP Launcher
 ProductVersion = 1.0.15.0
-URL = http://www.example.com/downloads/FuseRP.exe
+URL = https://app.fuserp.com/Installer/FuseRP.exe
 Size = 6042639
 ReleaseDate = 27/10/2022
 SHA256 = 50F15825510D4AD000A816C6A0C0A437E5F1C3AA5F333607243161327A745064
