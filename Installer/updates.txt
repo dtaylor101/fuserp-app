@@ -1,13 +1,14 @@
 ;aiu;
 
-[V1.0.18]
+[Update]
 Name = Fuse RP Launcher
-ProductVersion = 1.0.18
+ProductVersion = 1.0.19
 URL = http://app.fuserp.com/Installer/FuseRP.msi
 Size = 2867200
-SHA256 = 401621B2C3BF533863750537F2EDA20512032240F143188CA302A2A30DF3128C
-MD5 = bd81a829c9c82ae19d11df106ffac644
+ReleaseDate = 27/10/2022
+SHA256 = 50FBA2000ACF6F2B199DFF1F9B24D4F7E46497D214523294BACCA9AE8BE328BE
+MD5 = 9f5f73054d337111323784180079528b
 ServerFileName = FuseRP.msi
-Flags = SilentInstall|Os64
+Flags = SilentInstall
 RegistryKey = HKUD\Software\Fuse Roleplay\Fuse RP Launcher\Version
-Version = 1.0.18
+Version = 1.0.19
